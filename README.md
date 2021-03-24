@@ -7,7 +7,7 @@
 
 ### 💡 Interests
 
-⌨️ Coding
+- ⌨️ Coding
 - 💻 Learning new technologies
 - 🏓 Table tennis
 - 🥊 Boxing
